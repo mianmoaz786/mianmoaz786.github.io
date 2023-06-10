@@ -1160,6 +1160,9 @@ button {
         font-size: 11px;
         padding: 0 1rem;
     }
+    .item ul{
+        gap: 2rem;
+    }
 
     .feedback-box {
         flex-direction: column;
